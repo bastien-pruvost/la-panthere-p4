@@ -24,9 +24,9 @@ This project consists of improving the performance and referencing of an already
 git clone https://github.com/Dev-BastienPruvost/ohmyfood-p3.git  
   
   
-2. Run the project with a local server
+2. Run the project with a local server  
   
-Run with vsCode live server for example
+Run with vsCode live server for example  
   
   
 4. Start developing on the project  
