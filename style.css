@@ -9,13 +9,13 @@ body {
 
 a,
 button {
-  transition: all 0.2s ease-in-out;
-  /* outline: none !important; */
+  transition: all 0.1s ease-in-out;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline !important;
   cursor: pointer;
+  position: relative;
 }
 
 #page-loading-blocs-notifaction {
@@ -776,7 +776,6 @@ h4 {
 
 .bold-link {
   font-weight: 900;
-  text-decoration: underline !important;
 }
 
 .bgc-white {
