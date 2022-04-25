@@ -21,7 +21,7 @@ This project consists of improving the performance and referencing of an already
   
 1. Clone the repo  
   
-git clone https://github.com/Dev-BastienPruvost/ohmyfood-p3.git  
+git clone https://github.com/Dev-BastienPruvost/la-panthere-p4.git  
   
   
 2. Run the project with a local server  
