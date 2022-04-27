@@ -2,7 +2,7 @@
 
 ## See the project in action
 
-<a href="https://lapanthere.pruvostbastien.fr/" target="_blank"><img src="https://img.shields.io/badge/ctrl_%2B_click_here_to_see_the_website-324050?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://dev-bastienpruvost.github.io/la-panthere-p4/index.html" target="_blank"><img src="https://img.shields.io/badge/ctrl_%2B_click_here_to_see_the_website-324050?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## About the project
 
@@ -21,7 +21,7 @@ This project consists of improving the performance and referencing of an already
   
 1. Clone the repo  
   
-git clone https://github.com/Dev-BastienPruvost/ohmyfood-p3.git  
+git clone https://github.com/Dev-BastienPruvost/la-panthere-p4.git  
   
   
 2. Run the project with a local server  
