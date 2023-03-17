@@ -25,13 +25,9 @@ So I did not realize the design / UI part but only the optimization of the proje
 
 ## Before / After Optimization
 
-<br/>
-
 > **Note**  
 > The optimized website I made is in the root folder  
 > The existing website (not optimized) is in the `before-optimization` folder
-
-<br/>
 
 
 ## Features
